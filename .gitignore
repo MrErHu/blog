@@ -40,7 +40,6 @@ buck-out/
 .vscode
 
 ios/Pods
-assets/
 ios/Podfile.lock
 
 /yarn.lock
