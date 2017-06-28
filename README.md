@@ -30,6 +30,7 @@
 
 1. [从LHS与RHS角度浅谈Js变量声明与赋值](https://github.com/MrErHu/MrErHu/issues/12)
 2. [浅谈JavaScript闭包](https://github.com/MrErHu/MrErHu/issues/11)
+3. [我所认识的JavaScript作用域链和原型链](https://github.com/MrErHu/blog/issues/16)
 
 ## [从面试题中我们能学到什么](https://github.com/MrErHu/MrErHu/issues?q=is%3Aissue+is%3Aopen+label%3A%E4%BB%8E%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%AD%E6%88%91%E4%BB%AC%E8%83%BD%E5%AD%A6%E5%88%B0%E4%BB%80%E4%B9%88)
 
@@ -48,7 +49,6 @@
 ## [生活](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3A%E7%94%9F%E6%B4%BB)
 
 1. [2017年读书历程](https://github.com/MrErHu/MrErHu/issues/14)
-
 
 
 ## 打赏
