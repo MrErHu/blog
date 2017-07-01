@@ -15,16 +15,16 @@
 
 ## [React](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3AReact)
 
-1. [React事件机制](https://github.com/MrErHu/MrErHu/issues/6)
-2. [React Mixins入门指南](https://github.com/MrErHu/MrErHu/issues/5)
+1. [React生命周期浅谈](https://github.com/MrErHu/MrErHu/issues/2)
+2. [为什么React和Immutable是好朋友](https://github.com/MrErHu/MrErHu/issues/3)
+3. [React 高阶组件(HOC)入门指南](https://github.com/MrErHu/MrErHu/issues/4)
+4. [React Mixins入门指南](https://github.com/MrErHu/MrErHu/issues/5)
+5. [React事件机制](https://github.com/MrErHu/MrErHu/issues/6)
 
 ## [Redux](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3ARedux)
 
 1. [Redux:Middleware你咋就这么难](https://github.com/MrErHu/MrErHu/issues/7)
 2. [Redux:百行代码千行文档](https://github.com/MrErHu/MrErHu/issues/1)
-3. [React 高阶组件(HOC)入门指南](https://github.com/MrErHu/MrErHu/issues/4)
-4. [为什么React和Immutable是好朋友](https://github.com/MrErHu/MrErHu/issues/3)
-5. [React生命周期浅谈](https://github.com/MrErHu/MrErHu/issues/2)
 
 ## [JavaScript](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3AJavaScript)
 
