@@ -25,6 +25,7 @@
 
 1. [Redux:Middleware你咋就这么难](https://github.com/MrErHu/MrErHu/issues/7)
 2. [Redux:百行代码千行文档](https://github.com/MrErHu/MrErHu/issues/1)
+3. [庖丁解牛React-Redux(一): connectAdvanced](https://github.com/MrErHu/blog/issues/17)
 
 ## [JavaScript](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3AJavaScript)
 
