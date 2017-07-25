@@ -27,6 +27,7 @@
 2. [Redux:百行代码千行文档](https://github.com/MrErHu/MrErHu/issues/1)
 3. [Redux:自问自答](https://github.com/MrErHu/MrErHu/issues/18)
 4. [庖丁解牛React-Redux(一): connectAdvanced](https://github.com/MrErHu/blog/issues/17)
+5. [庖丁解牛React-Redux(二): connect](https://github.com/MrErHu/blog/issues/19)
 
 ## [JavaScript](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3AJavaScript)
 
