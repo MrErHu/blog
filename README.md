@@ -20,6 +20,7 @@
 3. [React 高阶组件(HOC)入门指南](https://github.com/MrErHu/MrErHu/issues/4)
 4. [React Mixins入门指南](https://github.com/MrErHu/MrErHu/issues/5)
 5. [React事件机制](https://github.com/MrErHu/MrErHu/issues/6)
+6. [React技术内幕:setState的秘密](https://github.com/MrErHu/MrErHu/issues/20)
 
 ## [Redux](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3ARedux)
 
