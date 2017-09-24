@@ -21,8 +21,9 @@
 4. [React Mixins入门指南](https://github.com/MrErHu/MrErHu/issues/5)
 5. [React事件机制](https://github.com/MrErHu/MrErHu/issues/6)
 6. [React技术内幕:setState的秘密](https://github.com/MrErHu/MrErHu/issues/20)
-6. [React技术内幕:key带来了什么](https://github.com/MrErHu/MrErHu/issues/21)
-6. [从Preact了解一个类React的框架是怎么实现的(一): 元素创建](https://github.com/MrErHu/MrErHu/issues/22)
+7. [React技术内幕:key带来了什么](https://github.com/MrErHu/MrErHu/issues/21)
+8. [从Preact了解一个类React的框架是怎么实现的(一): 元素创建](https://github.com/MrErHu/MrErHu/issues/22)
+9. [从Preact了解一个类React的框架是怎么实现的(二): 元素diff](https://github.com/MrErHu/MrErHu/issues/23)
 
 ## [Redux](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3ARedux)
 
