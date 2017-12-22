@@ -25,6 +25,7 @@
 8. [从Preact了解一个类React的框架是怎么实现的(一): 元素创建](https://github.com/MrErHu/MrErHu/issues/22)
 9. [从Preact了解一个类React的框架是怎么实现的(二): 元素diff](https://github.com/MrErHu/MrErHu/issues/23)
 9. [从Preact了解一个类React的框架是怎么实现的(三): 组件](https://github.com/MrErHu/MrErHu/issues/24)
+10. [了不起的Virtual DOM(一)：起源](https://github.com/MrErHu/blog/issues/26)
 
 ## [Redux](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3ARedux)
 
