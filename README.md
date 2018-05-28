@@ -13,6 +13,10 @@
 - [知乎](https://www.zhihu.com/people/mrerhu/activities)
 - [掘金](https://juejin.im/user/576e377bd342d30057c2e265)
 
+## [Vue](https://github.com/MrErHu/blog/labels/Vue)
+
+1. [响应式数据与数据依赖基本原理](https://github.com/MrErHu/blog/issues/28)
+
 ## [React](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3AReact)
 
 1. [React生命周期浅谈](https://github.com/MrErHu/MrErHu/issues/2)
