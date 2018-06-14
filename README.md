@@ -16,6 +16,7 @@
 ## [Vue](https://github.com/MrErHu/blog/labels/Vue)
 
 1. [响应式数据与数据依赖基本原理](https://github.com/MrErHu/blog/issues/28)
+2. [从Vue数组响应化所引发的思考](https://github.com/MrErHu/blog/issues/29)
 
 ## [React](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3AReact)
 
