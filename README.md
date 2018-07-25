@@ -17,7 +17,8 @@
 
 1. [响应式数据与数据依赖基本原理](https://github.com/MrErHu/blog/issues/28)
 2. [从Vue数组响应化所引发的思考](https://github.com/MrErHu/blog/issues/29)
-2. [Vue响应式数据: Observer模块实现](https://github.com/MrErHu/blog/issues/30)
+3. [Vue响应式数据: Observer模块实现](https://github.com/MrErHu/blog/issues/30)
+4. [Vue: Binding与Watcher](https://github.com/MrErHu/blog/issues/32)
 
 ## [React](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3AReact)
 
