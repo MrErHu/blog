@@ -20,6 +20,7 @@
 3. [Vue响应式数据: Observer模块实现](https://github.com/MrErHu/blog/issues/30)
 4. [Vue: Binding与Watcher](https://github.com/MrErHu/blog/issues/32)
 5. [Vue同构(一): 快速上手](https://github.com/MrErHu/blog/issues/33)
+6. [Vue同构(二): 路由与代码分割](https://github.com/MrErHu/blog/issues/34)
 
 ## [React](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3AReact)
 
