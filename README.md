@@ -51,12 +51,10 @@
 2. [浅谈JavaScript闭包](https://github.com/MrErHu/MrErHu/issues/11)
 3. [我所认识的JavaScript作用域链和原型链](https://github.com/MrErHu/blog/issues/16)
 4. [JavaScript基础: 类与继承](https://github.com/MrErHu/blog/issues/27)
-
-## [从面试题中我们能学到什么](https://github.com/MrErHu/MrErHu/issues?q=is%3Aissue+is%3Aopen+label%3A%E4%BB%8E%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%AD%E6%88%91%E4%BB%AC%E8%83%BD%E5%AD%A6%E5%88%B0%E4%BB%80%E4%B9%88)
-
-1. [一个小小的JavaScript题目](https://github.com/MrErHu/MrErHu/issues/10)
-2. [一道颇有难度的JavaScript题](https://github.com/MrErHu/MrErHu/issues/9)
-3. [从一道面试题谈谈函数柯里化(Currying)](https://github.com/MrErHu/MrErHu/issues/8)
+5. [一个小小的JavaScript题目](https://github.com/MrErHu/MrErHu/issues/10)
+6. [一道颇有难度的JavaScript题](https://github.com/MrErHu/MrErHu/issues/9)
+7. [从一道面试题谈谈函数柯里化(Currying)](https://github.com/MrErHu/MrErHu/issues/8)
+8. [JavaScript阴沟里翻船之运算符优先级](https://github.com/MrErHu/MrErHu/issues/36)
 
 ## [React Native](https://github.com/MrErHu/blog/labels/React%20Native)
 
