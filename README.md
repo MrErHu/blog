@@ -6,7 +6,7 @@
 
 关于我:
 
-　　94年程序员,入行资历甚浅,JavaScript爱好者,NodeJs拥护者,本来想做一个前端,但是苦于不精通CSS,现居于南京,努力学习中~
+　　94年程序员,入行资历甚浅,JavaScript爱好者,现居于南京,努力学习中~
 
 - [邮箱](mailto:wanglei_cs@163.com)
 - [微博](http://weibo.com/wanglei0934)
@@ -35,7 +35,8 @@
 8. [从Preact了解一个类React的框架是怎么实现的(一): 元素创建](https://github.com/MrErHu/MrErHu/issues/22)
 9. [从Preact了解一个类React的框架是怎么实现的(二): 元素diff](https://github.com/MrErHu/MrErHu/issues/23)
 9. [从Preact了解一个类React的框架是怎么实现的(三): 组件](https://github.com/MrErHu/MrErHu/issues/24)
-10. [了不起的Virtual DOM(一)：起源](https://github.com/MrErHu/blog/issues/26)
+10. [重拾React: React 16.0](https://github.com/MrErHu/blog/issues/38)
+11. [了不起的Virtual DOM(一)：起源](https://github.com/MrErHu/blog/issues/26)
 
 ## [Redux](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3ARedux)
 
@@ -56,7 +57,7 @@
 7. [从一道面试题谈谈函数柯里化(Currying)](https://github.com/MrErHu/MrErHu/issues/8)
 8. [JavaScript阴沟里翻船之运算符优先级](https://github.com/MrErHu/MrErHu/issues/36)
 
-## 基础
+## [基础](https://github.com/MrErHu/blog/labels/base)
 
 1. [跨域不完全探究](https://github.com/MrErHu/blog/issues/37)
 
