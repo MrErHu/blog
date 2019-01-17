@@ -72,7 +72,7 @@
 
 ## [生活](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3A%E7%94%9F%E6%B4%BB)
 
-1. [2017年读书历程](https://github.com/MrErHu/MrErHu/issues/14)
+1. [自己读过值得推荐的技术书](https://github.com/MrErHu/MrErHu/issues/14)
 
 
 ## 打赏
