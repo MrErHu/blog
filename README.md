@@ -62,6 +62,7 @@
 ## [基础](https://github.com/MrErHu/blog/labels/base)
 
 1. [跨域不完全探究](https://github.com/MrErHu/blog/issues/37)
+2. [前端设计模式总结:(一)](https://github.com/MrErHu/blog/issues/40)
 
 ## [React Native](https://github.com/MrErHu/blog/labels/React%20Native)
 
