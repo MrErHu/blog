@@ -62,7 +62,8 @@
 ## [基础](https://github.com/MrErHu/blog/labels/base)
 
 1. [跨域不完全探究](https://github.com/MrErHu/blog/issues/37)
-2. [前端设计模式总结:(一)](https://github.com/MrErHu/blog/issues/40)
+2. [前端设计模式总结:(一)](https://github.com/MrErHu/blog/issues/41)
+2. [前端设计模式总结:(二)](https://github.com/MrErHu/blog/issues/42)
 
 ## [React Native](https://github.com/MrErHu/blog/labels/React%20Native)
 
@@ -79,12 +80,12 @@
 
 ## 打赏
 
-  如果你觉得本文章质量不错，读后收获很大，那就请我吃一个麦旋风吧，让我有“动力”继续致力于高质量文章、教程和文章翻译。
+如果你觉得本文章质量不错，读后收获很大，那就请我吃一个麦旋风吧，让我有“动力”继续致力于高质量文章、教程和文章翻译。
 
-  ***微信***:
+***微信***:
 
-  ![WeChat](http://omaqpbodr.bkt.clouddn.com/Wechat.jpeg?imageView2/3/w/200/h/200/q/75|imageslim)
+![WeChat](http://omaqpbodr.bkt.clouddn.com/Wechat.jpeg?imageView2/3/w/200/h/200/q/75|imageslim)
 
-  ***支付宝***:
+***支付宝***:
 
-  ![Alipay](http://omaqpbodr.bkt.clouddn.com/Alipay.jpeg?imageView2/3/w/200/h/200/q/75|imageslim)
+![Alipay](http://omaqpbodr.bkt.clouddn.com/Alipay.jpeg?imageView2/3/w/200/h/200/q/75|imageslim)
