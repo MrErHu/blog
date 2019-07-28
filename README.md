@@ -39,6 +39,7 @@
 11. [重拾React: Context](https://github.com/MrErHu/blog/issues/39)
 12. [React Hooks入门: 基础](https://github.com/MrErHu/blog/issues/40)
 13. [了不起的Virtual DOM(一)：起源](https://github.com/MrErHu/blog/issues/26)
+14. [了不起的Virtual DOM(二): 使用TypeScript开发简易Virtual DOM库](https://github.com/MrErHu/blog/issues/43)
 
 ## [Redux](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3ARedux)
 
