@@ -60,11 +60,16 @@
 7. [从一道面试题谈谈函数柯里化(Currying)](https://github.com/MrErHu/MrErHu/issues/8)
 8. [JavaScript阴沟里翻船之运算符优先级](https://github.com/MrErHu/MrErHu/issues/36)
 
-## [基础](https://github.com/MrErHu/blog/labels/base)
+## [基础知识](https://github.com/MrErHu/blog/labels/base)
 
 1. [跨域不完全探究](https://github.com/MrErHu/blog/issues/37)
 2. [前端设计模式总结:(一)](https://github.com/MrErHu/blog/issues/41)
 2. [前端设计模式总结:(二)](https://github.com/MrErHu/blog/issues/42)
+
+## [随笔](https://github.com/MrErHu/blog/labels/DailySummary)
+
+1. [MobX enforceActions使用总结](https://github.com/MrErHu/blog/issues/44)
+2. [日常Debug 事件监听](https://github.com/MrErHu/blog/issues/45)
 
 ## [React Native](https://github.com/MrErHu/blog/labels/React%20Native)
 
@@ -77,16 +82,3 @@
 ## [生活](https://github.com/MrErHu/MrErHu/issues?q=is%3Aopen+is%3Aissue+label%3A%E7%94%9F%E6%B4%BB)
 
 1. [自己读过值得推荐的技术书](https://github.com/MrErHu/MrErHu/issues/14)
-
-
-## 打赏
-
-如果你觉得本文章质量不错，读后收获很大，那就请我吃一个麦旋风吧，让我有“动力”继续致力于高质量文章、教程和文章翻译。
-
-***微信***:
-
-![WeChat](http://omaqpbodr.bkt.clouddn.com/Wechat.jpeg?imageView2/3/w/200/h/200/q/75|imageslim)
-
-***支付宝***:
-
-![Alipay](http://omaqpbodr.bkt.clouddn.com/Alipay.jpeg?imageView2/3/w/200/h/200/q/75|imageslim)
