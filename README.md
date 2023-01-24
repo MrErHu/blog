@@ -70,6 +70,7 @@
 
 1. [MobX enforceActions使用总结](https://github.com/MrErHu/blog/issues/44)
 2. [日常Debug 事件监听](https://github.com/MrErHu/blog/issues/45)
+3. [Babel Polyfill 常见问题总结](https://github.com/MrErHu/blog/issues/46)
 
 ## [React Native](https://github.com/MrErHu/blog/labels/React%20Native)
 
